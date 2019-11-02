@@ -27,7 +27,6 @@ const Settings = () => (
 export const Main = () => {
     return (
         <>
-
             <Navigation />
             <Route component={Home} path='' />
             <Route component={Profile} path='profile' />
