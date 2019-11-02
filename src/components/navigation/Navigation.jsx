@@ -1,4 +1,4 @@
-import { RouterLink } from '../router/SolidRouter';
+import { RouterLink } from 'solidjsrouter';
 
 export const Navigation = () => (
     <nav className="nav">
@@ -6,5 +6,4 @@ export const Navigation = () => (
         <RouterLink path="profile">Profile</RouterLink>
         <RouterLink path="settings">Settings</RouterLink>
     </nav>
-
 )

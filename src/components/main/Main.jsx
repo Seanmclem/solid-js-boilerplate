@@ -1,4 +1,4 @@
-import { Route } from '../router/SolidRouter';
+import { Route } from 'solidjsrouter';
 import { Navigation } from '../navigation/Navigation'
 
 const Home = () => (

@@ -5,7 +5,8 @@
   "dependencies": {
     "node-sass": "^4.13.0",
     "solid-js": "^0.13.0",
-    "solid-scripts": "0.0.23"
+    "solid-scripts": "0.0.23",
+    "solidjsrouter": "0.0.12"
   },
   "scripts": {
     "start": "solid-scripts start",
