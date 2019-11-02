@@ -1,0 +1,22 @@
+{
+  "name": "solid-js-boilerplate-spa-routing",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "node-sass": "^4.13.0",
+    "solid-js": "^0.13.0",
+    "solid-scripts": "0.0.23"
+  },
+  "scripts": {
+    "start": "solid-scripts start",
+    "build": "solid-scripts build",
+    "test": "solid-scripts test"
+  },
+  "browserslist": [
+    "Chrome 74",
+    "Firefox 63",
+    "Safari 11",
+    "Edge 17",
+    "Node 10"
+  ]
+}
