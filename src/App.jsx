@@ -1,4 +1,4 @@
-import { RouterProvider } from "solidjsrouter";
+import { RouterProvider } from 'solidjsrouter';
 import { Main } from './components/main/Main';
 import './App.scss';
 
